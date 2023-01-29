@@ -1,0 +1,8 @@
+[submodule "AI_cachan"]
+	path = AI_cachan
+	url = https://github.com/konjikicity/AI_cachan.git
+	branch = main
+[submodule "AI_cachan_admin"]
+	path = AI_cachan_admin
+	url = https://github.com/konjikicity/AI_cachan_admin.git
+	branch = main
